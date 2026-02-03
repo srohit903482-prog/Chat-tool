@@ -211,6 +211,3 @@ For support and questions, please open an issue in the repository.
 - [ ] API documentation (Swagger)
 - [ ] Docker containerization
 
-## Credits
-
-Built with ❤️ by the NinjaTech AI team
